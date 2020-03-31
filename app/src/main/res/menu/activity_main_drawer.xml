@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cases"
+            android:icon="@drawable/ic_menu_cases"
+            android:title="@string/cases_label" />
+        <item
+            android:id="@+id/nav_countries"
+            android:icon="@drawable/ic_menu_countries"
+            android:title="@string/countries_label" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="@string/map_label" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_menu_report"
+            android:title="@string/report_label" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_news"
+            android:title="@string/news_label" />
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_menu_test"
+            android:title="@string/test_label" />
+    </group>
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كورونا فيروس</string>
+    <string name="nav_header_title">فيروس كورونا المستجد (كوفيد-19)</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="cases_label">العدد الكلي</string>
+    <string name="map_label">خريطة الاصابات</string>
+    <string name="report_label">تقرير منظمة الصحة</string>
+    <string name="news_label">الاخبار</string>
+    <string name="menu_refresh">اعادة تحميل</string>
+    <string name="error_message">هناك شئ خاطئ</string>
+    <string name="no_connection_message">يرجى التأكد من الاتصال بالانترنت</string>
+    <string name="image_description">صورة الاخبار</string>
+    <string name="yes_button">نعم</string>
+    <string name="no_button">لا</string>
+    <string name="question_1">هل قمت بزيارة أي من الاماكن الموبؤة بالكرونا من قبل؟</string>
+    <string name="question_2">مخالطة احد الحالات المصابة بالفيروس؟</string>
+    <string name="question_3">زيارة مكان او قطاع صحي اكتشفت فيه حالة موجبة؟</string>
+    <string name="question_4">العمل بالقطاع الصحي أو منطقة عزل صحي؟</string>
+    <string name="question_5">الأعراض المصاحبة: حمى (درجة حرارة اكثر من 38)</string>
+    <string name="question_6">الأعراض المصاحبة: السعال (شديد أو متزايد)</string>
+    <string name="question_7">الأعراض المصاحبة: ضيق في التنفس(شديد او متفاقم)</string>
+    <string name="question_8">الأعراض المصاحبة:  التهاب الحلق و / أو سيلان الأنف</string>
+    <string name="question_9">الأعراض المصاحبة: الغثيان والقيء و / أو الإسهال</string>
+    <string name="question_10">الأعراض المصاحبة: الفشل الكلوي المزمن ،امراض الكبد / القلب</string>
+    <string name="enter_your_age">كم عمرك</string>
+    <string name="start_test">ابدأ</string>
+    <string name="test_label">اختبار الكورونا</string>
+    <string name="result_3">انت بخير!! نأمل أن يقوم أي شخص يعاني من أعراض تشمل السعال وسيلان الأنف والحمى والتهاب الحلق بالحجر الذاتي لمدة 14 يومًا.   لحماية نفسك في الأماكن العامة ، يرجى غسل يديك بشكل متكرر ومكثف ، والحفاظ على مسافة مترين على الأقل من الأشخاص المحيطين.</string>
+    <string name="result_2">يجب عليك إبلاغ الطبيب الخاص للتقييم ، ويجب إجراء اختبارالكورونا وفقًا لتعريف الحالة ، أو الذهاب مباشرة إلى قسم الطوارئ ، أو زيارة العيادات الخاصة.  يرجى القيام بالحجر الذاتي حتى تتوفر نتائج التحليلات الخاصة بك.  العزلة الذاتية تعني عدم الذهاب إلى الأماكن العامة ، والبقاء في المنزل وعدم مقابلة الزوار.  لا تشارك الأشياء الشخصية مثل الأطباق والأواني والمناشف وغسل يديك بين الحين والآخر.</string>
+    <string name="result_1">يجب عليك إبلاغ الطبيب الخاص بك للتقييم ، ويجب إجراء الاختبار فقط وفقًا لتعريف الحالة. يرجى عدم الذهاب إلى قسم الطوارئ أو زيارة العيادات إلا إذا تفاقمت هذه الأعراض.  يرجى القيام بالحجر الذاتي حتى تتوفر نتائج التحليلات الخاصة بك.  العزلة الذاتية تعني عدم الذهاب إلى الأماكن العامة ، والبقاء في المنزل وعدم مقابلة الزوار.  لا تشارك الأشياء الشخصية مثل الأطباق والأواني والمناشف وغسل يديك بين الحين والآخر.</string>
+    <string name="total_deaths">عدد الوفيات</string>
+    <string name="total_confirmed">العدد الكلى للاصابات</string>
+    <string name="search_lang">ar</string>
+    <string name="recovered">حالات الشفاء</string>
+    <string name="countries_label">الدول</string>
+    <string name="loading">جاري التحميل....</string>
+    <string name="cases">الحالات</string>
+    <string name="deaths">الوفيات</string>
+    <string name="today_cases">حالات اليوم</string>
+    <string name="today_deaths">وفيات اليوم</string>
+</resources>

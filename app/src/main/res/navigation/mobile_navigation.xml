@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_cases">
+
+    <fragment
+        android:id="@+id/nav_cases"
+        android:name="abdullah.alialdin.coronavirus.ui.totalCases.CasesFragment"
+        android:label="@string/cases_label"
+        tools:layout="@layout/fragment_cases">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_countries"
+        android:name="abdullah.alialdin.coronavirus.ui.Countries.CountryFragment"
+        android:label="@string/countries_label"
+        tools:layout="@layout/fragment_news">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="abdullah.alialdin.coronavirus.ui.maps.MapFragment"
+        android:label="@string/map_label"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_report"
+        android:name="abdullah.alialdin.coronavirus.ui.reports.ReportFragment"
+        android:label="@string/report_label"
+        tools:layout="@layout/fragment_report" />
+
+    <fragment
+        android:id="@+id/nav_news"
+        android:name="abdullah.alialdin.coronavirus.ui.news.NewsFragment"
+        android:label="@string/news_label"
+        tools:layout="@layout/fragment_news" />
+
+    <fragment
+        android:id="@+id/nav_test"
+        android:name="abdullah.alialdin.coronavirus.ui.test.CovidTest"
+        android:label="@string/test_label"
+        tools:layout="@layout/fragment_test"/>
+
+</navigation>
